@@ -6,10 +6,11 @@ Bu proje, **Akbank Makine Öğrenmesi Bootcamp 2025** kapsamında geliştirilmi�
 
 ## 🔍 Giriş
 
-Projede kullanılan veri seti: **[Veri Seti Adı – Kaynak Link]**  
-Veri seti; [özellik sayısı] adet özelliğe ve [veri sayısı] adet örneğe sahiptir.  
-Problem türü: **Sınıflandırma / Regresyon**  
-Hedef değişken: **[Hedef sütun adı]**
+Projede kullanılan veri seti: Formula 1 World Championship (1950–2024)
+Veri seti, 1950 yılından günümüze kadar yapılmış Formula 1 yarışlarına ait kapsamlı bilgileri içermektedir. 14 farklı CSV dosyasından oluşur ve sürücüler, takımlar, yarış sonuçları, tur zamanları, pit stop verileri gibi çeşitli detaylar barındırır.
+
+Problem türü: Sınıflandırma / Regresyon
+Hedef değişken: positionOrder, milliseconds, veya qualifying time (problem tanımına göre değişir)
 
 Bu projede:
 - Veri analizi ve görselleştirmeler yapılmıştır.
