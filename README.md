@@ -60,14 +60,6 @@ Model çıktıları ve bu çıktılara dair analizler notebook dosyasında markd
 
 ---
 
-## 🔗 Kaggle Notebook Linkleri
-
-- [📌 Supervised Öğrenme Notebook (Kaggle)](https://www.kaggle.com/code/kullaniciadi/notebook-adresiniz)
-- [📌 (Opsiyonel) GPU ile Hızlandırılmış Çalışma](https://www.kaggle.com/code/kullaniciadi/gpu-ile-ml)
-- [📌 (Opsiyonel) Deploy Edilmiş Proje](https://github.com/kullaniciadi/proje-linki)
-
----
-
 ## 🎯 Sonuç ve Gelecek Çalışmalar
 
 Bu proje ile gözetimli öğrenme süreçleri uçtan uca deneyimlenmiştir. Gelecekte:
@@ -79,5 +71,11 @@ Bu proje ile gözetimli öğrenme süreçleri uçtan uca deneyimlenmiştir. Gele
 
 ---
 
-## 📁 Proje Yapısı
+## 🔗 Kaggle Notebook Linkleri
+
+- [📌 Supervised Öğrenme Notebook (Kaggle)](https://www.kaggle.com/code/kullaniciadi/notebook-adresiniz)
+- [📌 (Opsiyonel) GPU ile Hızlandırılmış Çalışma](https://www.kaggle.com/code/kullaniciadi/gpu-ile-ml)
+- [📌 (Opsiyonel) Deploy Edilmiş Proje](https://github.com/kullaniciadi/proje-linki)
+
+---
 
