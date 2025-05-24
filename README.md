@@ -76,6 +76,3 @@ Bu proje ile gözetimli öğrenme süreçleri uçtan uca deneyimlenmiştir. Gele
 - [📌 Supervised Öğrenme Notebook (Kaggle)](https://www.kaggle.com/code/kullaniciadi/notebook-adresiniz)
 - [📌 (Opsiyonel) GPU ile Hızlandırılmış Çalışma](https://www.kaggle.com/code/kullaniciadi/gpu-ile-ml)
 - [📌 (Opsiyonel) Deploy Edilmiş Proje](https://github.com/kullaniciadi/proje-linki)
-
----
-
