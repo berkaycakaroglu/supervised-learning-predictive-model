@@ -74,4 +74,4 @@ Bu proje ile gözetimli öğrenme süreçleri uçtan uca deneyimlenmiştir. Gele
 
 ## 🔗 Kaggle Notebook Linkleri
 
-- [📌 Supervised Öğrenme Notebook (Kaggle)](https://www.kaggle.com/code/berkaycakaroglu/bootcampproject)
+- [📌 Supervised Öğrenme Notebook (Kaggle)](https://www.kaggle.com/code/berkaycakaroglu/mlbootcamp-supervised-makine-ogrenmesi)
